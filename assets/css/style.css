@@ -669,6 +669,7 @@ section {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+
 }
 
 
@@ -802,6 +803,7 @@ section {
   margin-bottom: 20px;
   font-size: 14px;
   color: #173b6c;
+  cursor: pointer;
 }
 
 .contact .info .email p {
